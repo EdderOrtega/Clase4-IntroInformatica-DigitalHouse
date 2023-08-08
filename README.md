@@ -1,3 +1,3 @@
 # Clase4-IntroInformatica-DigitalHouse
 
-#repositorio para ejercicios de git 
+## Repositorio para ejercicios de git 
